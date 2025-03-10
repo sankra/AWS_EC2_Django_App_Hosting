@@ -12,7 +12,6 @@ This guide provides step-by-step instructions to deploy a Django web application
 
 Use SSH to connect to your EC2 instance:
 
-ssh -i your-key.pem ubuntu@your-ec2-instance-ip
 
 2️⃣ Update and Install Dependencies
 
