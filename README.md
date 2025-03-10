@@ -2,11 +2,11 @@
 
 This guide provides step-by-step instructions to deploy a Django web application on an AWS EC2 instance.
 
-📌 Prerequisites
+## 📌 Prerequisites
 
 ✅ An AWS account✅ A running EC2 instance (Ubuntu recommended)✅ SSH access to the EC2 instance✅ A registered domain (optional but recommended)✅ Security group configured to allow HTTP (80) and HTTPS (443) traffic
 
-🚀 Steps to Host Django on AWS EC2
+## 🚀 Steps to Host Django on AWS EC2
 
 1️⃣ Connect to EC2 Instance
 
@@ -57,6 +57,6 @@ Set up .env files or use AWS Secrets Manager to securely store sensitive informa
 
 Use CI/CD pipelines, AWS CodeDeploy, or Ansible to automate future deployments.
 
-🎯 Conclusion
+## 🎯 Conclusion
 
 Following these steps, you can successfully deploy and host a Django web application on AWS EC2. Be sure to secure your application and monitor server performance for smooth operations.
